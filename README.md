@@ -13,8 +13,6 @@
 
 - 👨‍💻 I am passionate about **App Development.**
 
-- 💬 Ask me about **MERN , PERN , DSA**
-
 - 📫 How to reach me **nsc18035@gmail.com**
 
 - ⚡ Fun fact **I think i am COOL and i am!**
