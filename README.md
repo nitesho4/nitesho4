@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am passionate about **Web Development.**
 
-- - 👨‍💻 I am passionate about **App Development.**
+- 👨‍💻 I am passionate about **App Development.**
 
 - 💬 Ask me about **MERN , PERN , DSA**
 
