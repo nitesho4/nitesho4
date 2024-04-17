@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesho4&label=Profile%20views&color=0e75b6&style=flat" alt="nitesho4" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 I am passionate about **Web Development.**
 
-- 👨‍💻 I am passionate about **App Development.**
+- 👨‍💻 I am passionate about **DSA**
 
 - 📫 How to reach me **nsc18035@gmail.com**
 
