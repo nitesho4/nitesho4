@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nsc18035@gmail.com**
 
-- ⚡ Fun fact **I think i am COOL and i am!**
+- ⚡ Fun fact **I'm Fitness Influencer🫣!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
