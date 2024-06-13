@@ -12,79 +12,42 @@
 
 <div align="left">
 	<img  src="https://skillicons.dev/icons?i=html" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=css" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=javascript" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=bootstrap" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=tailwind" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=sass" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=jquery" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=nodejs" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=express" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=firebase" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=mysql" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=postgresql" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=mongodb" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=django" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=react" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=c" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=cpp" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=java" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=python" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=go" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=bash" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=linux" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=git" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=github" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=aws" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=terraform" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=docker" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=kubernetes" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=postman" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=npm" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=typescript" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=jenkins" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=ubuntu" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=windows" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=vscode" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=githubactions" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=vite" />
-	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=wordpress" />
 </div> 
 
