@@ -86,12 +86,6 @@
 	<img  src="https://skillicons.dev/icons?i=vite" />
 	<img width="12" />
 	<img  src="https://skillicons.dev/icons?i=wordpress" />
-	<img width="12" />
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
-  <img width="12" />
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
-	<img width="12" />
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/>
 </div> 
 
 ###
